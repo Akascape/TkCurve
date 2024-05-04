@@ -1,5 +1,5 @@
 # TkCurve
-A curve widget editor for tkinter, can be used in complex programs for better controls.
+A curve editor widget for tkinter, can be used in complex programs for better controls.
 
 ![image](https://github.com/Akascape/TkCurve/assets/89206401/b4cd7314-b899-4244-b4ee-1ff25355ba7c)
 
