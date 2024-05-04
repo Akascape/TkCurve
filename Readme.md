@@ -50,6 +50,7 @@ root.mainloop()
 ## Methods
 - `.add_point((x,y))`: add a new point in the canvas
 - `.delete_point((x,y))`: delete a point from canvas
+- `.fix((x,y))`: fix a point in the canvas
 - `.config`: change all the parameters
 - `.cget`: get any parameter
 - `.get()`: get the current points
