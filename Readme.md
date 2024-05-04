@@ -3,6 +3,11 @@ A curve widget editor for tkinter, can be used in complex programs for better co
 
 ![image](https://github.com/Akascape/TkCurve/assets/89206401/b4cd7314-b899-4244-b4ee-1ff25355ba7c)
 
+## Installation
+### [<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Akascape/TkCurve?&color=white&label=Download%20Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/TkCurve/archive/refs/heads/main.zip)
+
+Download the source code, paste the `tkcurve` folder in the directory where your program is present.
+
 ## Usage
 ```python
 import tkinter as tk
