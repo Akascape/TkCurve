@@ -28,5 +28,25 @@ root.mainloop()
 ```
 
 ## Parameters
+| Parameters | Details |
+|--------|----------|
+| master	| parent widget |
+| width | width of the canvas |
+| height | height of the canvas |
+| points | the values of the points, example: [(x,y), (x,y)] |
+| point_color | color of the points |
+| point_size | radius of the points |
+| line_color | color of the curve line |
+| line_width | width of the line |
+| bg | background color |
+| smooth | enable/disable bezier curve |
+| grid_color | color of the grid lines |
 
 ## Methods
+- `.add_point((x,y))`: add a new point in the canvas
+- `.delete_point((x,y))`: delete a point from canvas
+- `.config`: change all the parameters
+- `.cget`: get any parameter
+- `.get()`: get the current points
+  
+Follow me for more stuff like this: [`Akascape`](https://github.com/Akascape/)
